@@ -1,0 +1,12 @@
+{
+  "success_rate_by_category": {
+    "distorted_header_value": 0.3016666666666667,
+    "identity_encoding": 1.0,
+    "v1_0_chunked": 0.9426666666666667,
+    "double_transfer_encoding": 0.9403333333333334,
+    "chunk_size_data_mismatch": 0.966,
+    "manipulated_chunk_termination": 0.932
+  },
+  "total_discrepant_pairs_found": 38,
+  "total_server_pairs_possible": 42
+}
